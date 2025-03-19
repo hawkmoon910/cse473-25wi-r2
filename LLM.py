@@ -6,7 +6,7 @@ from weather_tool import WeatherTool
 WEATHER_KEYWORDS = [
     "weather", "temperature", "forecast", "rain", "humidity", "wind",
     "climate", "storm", "conditions", "sunny", "cloudy", "fog", 
-    "snow", "hail", "hailstorm", "thunder", "lightning", "drizzle"
+    "snow", "hail", "hailstorm", "thunder", "drizzle"
 ]
 
 # Initialize the MCP weather tool
