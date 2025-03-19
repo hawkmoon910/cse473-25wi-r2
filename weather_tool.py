@@ -7,7 +7,7 @@ class WeatherTool:
     Implements the Model Context Protocol tool for fetching weather data directly from OpenWeatherMap.
     """
 
-    API_KEY = "b64bd32bc583620420b95bdcdde304c5"
+    API_KEY = "YOUR_API_KEY_HERE"
     BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
     def __init__(self):
